@@ -1,0 +1,15 @@
+from toppings import toppings
+
+menu1 = toppings()
+menu1.satu(),menu1.pepp()
+menu1.satu(),menu1.mush()
+menu1.satu(),menu1.mush(),menu1.extra()
+menu1.satu(),menu1.onio(),menu1.pepp(),menu1.green()
+menu1.satu(),menu1.fresh()
+menu1.satu(),menu1.green()
+menu1.dua(),menu1.pepp()
+menu1.dua(),menu1.mush()
+menu1.dua(),menu1.mush(),menu1.extra()
+menu1.dua(),menu1.onio(),menu1.pepp(),menu1.green()
+menu1.dua(),menu1.fresh()
+menu1.dua(),menu1.green()
